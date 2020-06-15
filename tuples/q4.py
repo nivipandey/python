@@ -1,0 +1,13 @@
+a=int(input("enter the number"))
+b=int(input("enter second number"))
+print(bin(a))
+print(bin(b))
+print(a & b)
+print(a | b)
+print(a ^ b)
+print(~b)
+
+print(a==b)
+print(a != b)
+print(a<<4)
+print(b>>4)
