@@ -1,0 +1,6 @@
+t1=(1,2,34,5,4,3,23,3)
+t2=(1,2,3,4,5)
+t3=(1,2,4,4,5,6,6)
+print("max is " , max(t1,t2,t3,key=len))
+print("min is ",min(t1,t2,t3,key=len))
+print(t1+t2)
