@@ -1,0 +1,12 @@
+bar chart :
+
+x=[0.25,1.25,2.25,3.25,4.25]
+y=[50,40,70,80,20]
+plt.bar(x,y,label="science",color='b',width=.5)
+x1=[0.75,1.75,2.75,3.75,4.75]
+y1=[80,20,20,50,60]
+plt.bar(x1,y1,label="commerce",color='g',width=.5)
+plt.legend()
+plt.xlabel('days')
+plt.ylabel('marks')
+plt.title('progress chart')

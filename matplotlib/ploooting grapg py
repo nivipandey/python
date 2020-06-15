@@ -1,0 +1,10 @@
+ plotting graph:
+
+from matplotlib import pyplot as plt
+x=[4,2,6]
+y=[2,10,8]
+plt.plot(x,y)
+plt.title('graph')
+plt.ylabel('y-axis')
+plt.xlabel('x-axis')
+plt.show()
