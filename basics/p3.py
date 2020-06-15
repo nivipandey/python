@@ -1,0 +1,5 @@
+a=int(input("enter the value"))
+print(bin(a))
+print(hex(a))
+print(oct(a))
+print(complex(a))

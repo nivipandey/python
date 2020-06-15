@@ -1,0 +1,6 @@
+a=int(input("enter any number"))
+print("a=",a)
+b=int(input("enter second:"))
+print("B= ",b)
+print(a>b)
+print("a=" +str(a))
