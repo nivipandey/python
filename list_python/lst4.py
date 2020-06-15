@@ -1,0 +1,11 @@
+a1=[1,2,3,4,5,6]
+a1[0]=17
+print(a1)
+a1[1:4]=[18,19,20]
+print(a1)
+a1.append(31)
+print(a1)
+a1.extend([41,42,43])
+print(a1)
+a1.append([50,52,53])
+print(a1)
