@@ -1,0 +1,9 @@
+s1="PythonP"
+print(len(s1))
+print(s1.count("P"))
+print(s1.find("y"))
+print(s1.islower())
+print(s1.isupper())
+print(s1.upper)
+print(s1.lower)
+#print(s1.rfind("y"))
