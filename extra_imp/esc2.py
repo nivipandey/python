@@ -1,0 +1,7 @@
+print("\\")
+print("\'")
+print("\"")
+print("arun\bcdac")
+print("arun\fcdac")
+print("arun\ncdac")
+print("arun\vcdac")

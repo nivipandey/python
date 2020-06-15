@@ -1,0 +1,6 @@
+a=int(input("enter the number"))
+b=int(input("enter the number"))
+print(str(bin(a))+" "+str(bin(b)))
+#print(bin(b))
+print(hex(a), hex(b))
+#print(hex(b))
