@@ -1,0 +1,25 @@
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "log.py", line 6, in <module>
+    c=a/b
+ZeroDivisionError: division by zero
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "log.py", line 6, in <module>
+    c=a/b
+ZeroDivisionError: division by zero
+ERROR:root:unsupported operand type(s) for +: 'int' and 'str'
+Traceback (most recent call last):
+  File "ques.py", line 6, in <module>
+    c=a+b
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+ERROR:root:list index out of range
+Traceback (most recent call last):
+  File "ques.py", line 13, in <module>
+    print(l[8])
+IndexError: list index out of range
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "ques.py", line 22, in <module>
+    s=num/num1
+ZeroDivisionError: division by zero
